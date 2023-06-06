@@ -1,0 +1,24 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\bin\Debug\CoBan_ProgressBar_Timer.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\bin\Debug\CoBan_ProgressBar_Timer.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\bin\Debug\CoBan_ProgressBar_Timer.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.Form2.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\bin\Debug\CoBan_ProgressBar_Timer.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\bin\Debug\CoBan_ProgressBar_Timer.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\bin\Debug\CoBan_ProgressBar_Timer.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.Form2.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_Freetuts_ProgressBar_Timer\CoBan_ProgressBar_Timer\obj\Debug\CoBan_ProgressBar_Timer.pdb
